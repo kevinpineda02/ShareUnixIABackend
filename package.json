@@ -2,9 +2,9 @@
   "name": "shareunixia-backend",
   "version": "1.0.0",
   "type": "module",
-  "main": "backend.js",  
+  "main": "back.js", 
   "scripts": {
-    "start": "node backend.js"  
+    "start": "node back.js"  
   },
   "keywords": [],
   "author": "",
